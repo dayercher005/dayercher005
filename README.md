@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dayer</h1>
-- 🌱 I’m currently learning **Frontend development**
+- 🌱 I’m currently learning **programming**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
