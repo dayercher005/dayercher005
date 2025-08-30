@@ -1,7 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Dayer</h1>
 - 🌱 I’m currently interested in Software Development.
-- 🔭 I’m currently working on [BattleShip Game](https://github.com/dayercher005/Battleship)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
