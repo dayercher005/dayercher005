@@ -8,7 +8,7 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
+<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto">
 
 
 
