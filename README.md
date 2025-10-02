@@ -7,8 +7,9 @@
 <a href="https://www.linkedin.com/in/dayer-cher-9a9a14231/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dayer-cher-9a9a14231/" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Tech Stack:</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto">
+# Tech Stack: 
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto) ![Static Badge](https://img.shields.io/badge/CSS3-%23663399?style=for-the-badge&logo=CSS&logoColor=white&logoSize=auto)
+
 
 
 
