@@ -8,7 +8,8 @@
 </p>
 
 <h3 align="left">Tech Stack:</h3>
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Static Badge](https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=HTML5&logoColor=white&logoSize=auto)
+
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayercher005&show_icons=true&locale=en&layout=compact" alt="dayercher005" /></p>
