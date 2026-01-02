@@ -12,6 +12,4 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-_?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&labelColor=black&color=%234169E1)
 
 # Github Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dayercher005&show_icons=true&locale=en&layout=compact" alt="dayercher005" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayercher005&" alt="dayercher005" /></p>
