@@ -1,5 +1,7 @@
 
-[<h1 align="center">Hi 👋, I'm Dayer</h1>](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi%20👋,%20I'm%20Dayer!&textBg=false&animation=fadeIn)
+<p align="center">
+  <img src="(https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi%20👋,%20I'm%20Dayer!&textBg=false&animation=fadeIn)"/>
+</p>
 - 🌱 I’m currently interested in Software Development.
 
 # Connect with Me: 
