@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Hi%20👋,%20I'm%20Dayer!&textBg=false&animation=fadeIn"/>
-</p>
 - 🌱 I’m currently interested in Software Development.
 
 # Connect with Me: 
@@ -14,4 +11,3 @@
 ![Static Badge](https://img.shields.io/badge/PostgreSQL-_?style=for-the-badge&logo=PostgreSQL&logoColor=%234169E1&labelColor=black&color=%234169E1)
 
 
-[![dayercher005's GitHub stats](https://github-readme-stats.vercel.app/api?username=dayercher005)](https://github.com/dayercher005/github-readme-stats)
