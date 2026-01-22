@@ -5,7 +5,7 @@
 
 
 ## Github Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayercher005&show_icons=true&theme=tokyonight&rank_icon=github)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayercher005&layout=donut&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=dayercher005&show_icons=true&theme=tokyonight&rank_icon=github&card_height=200)![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dayercher005&layout=donut&theme=tokyonight)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=dayercher005&theme=tokyonight-duo)](https://git.io/streak-stats)
 
 
