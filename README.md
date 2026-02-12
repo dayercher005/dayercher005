@@ -8,6 +8,6 @@
 
 <p align="center">
 <a href="https://github.com/dayercher005">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayercher005&tokyonight-duo&count_private=true">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dayercher005&theme=tokyonight-duo&count_private=true">
 </a>
 </p>
